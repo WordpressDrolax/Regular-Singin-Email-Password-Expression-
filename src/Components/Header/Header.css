@@ -1,0 +1,13 @@
+.nav a{
+    margin-right: 10px;
+    display: inline-block;
+    padding: 0px 20px;
+    border: 1px solid goldenrod;
+    border-radius: 5px;
+
+}
+.nav a:hover{
+    border: 1px solid red;
+    background-color: black;
+    color: #fff;
+}
